@@ -1,0 +1,60 @@
+-INSTALL PYTHON
+There is a python 3.7 installer attached to this folder.
+Run Installation. 
+
+
+- INSTALL FLASK
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask
+
+CHECK IF IT INSTALLED CORRECTLY
+import flask
+
+[no errors? you have flask you bum :) ]
+
+-INSTALL A FLASK PACKAGE
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-wtf
+
+
+- INSTALL FIRST DB MANAGER
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-sqlalchemy
+
+- INSTALL OUR SECOND DB MANAGER
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-mysql
+
+
+- INSTALL OUR ENCRYPTION MODEL
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-bcrypt
+
+-INSTALL OUR LOGIN MODEL
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-login
+
+-INSTALL OUR PICTURE PACKAGE
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install Pillow
+
+-INSTALL OUR MAIL PACKAGE
+OPEN YOUR COMMAND PROMPT
+ENTER:
+pip install flask-mail
+
+
+[I think that's it! :)]
+[You made it bum! ;) ]
+
+Alpha 4L!! lamoa
+
+With Love
+- Team Back-End
